@@ -4,7 +4,7 @@ TODOs you cannot forget!
 
 todo-or-die provides template haskell macros that act as checked reminders.
 
-This project is a port of the rust carate with the same name: https://docs.rs/todo-or-die/latest/todo_or_die/
+This project is a port of the rust crate with the same name: https://docs.rs/todo-or-die/latest/todo_or_die/
 
 ```haskell
 -- trigger a compile error if we're past a certain date
